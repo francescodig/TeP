@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orario>
+	<inizioLezione>8:00</inizioLezione>
+	<durataLezione>60</durataLezione>
+	<pausaTraLezioni>0</pausaTraLezioni>
+	<inizioIntervallo>11:00</inizioIntervallo>
+	<durataIntervallo>20</durataIntervallo>
+	
+	<giorno>
+		<materia>Sistemi e Reti CLIL</materia>
+		<materia>Lingua e Letteratura</materia>
+		<materia>Lingua e Letteratura</materia>
+		<materia>Religione Cattolica</materia>
+		<materia>TeP</materia>
+		<materia>Storia</materia>
+	</giorno>
+	<giorno>
+		<materia>Lingua e Letteratura</materia>
+		<materia>Matematica</materia>
+		<materia>Matematica</materia>
+		<materia>Lab. Informatica</materia>
+		<materia>Lab. Informatica</materia>
+		<materia>Lab. Informatica</materia>
+		<materia>Inglese</materia>
+	</giorno>
+	<giorno>
+		<materia>Informatica</materia>
+		<materia>Inglese</materia>
+		<materia>Inglese</materia>
+		<materia>Scienze Motorie</materia>
+		<materia>Lab Gestione di Progetti</materia>
+		<materia>Lab Gestione di Progetti</materia>
+	</giorno>
+	<giorno>
+		<materia>Matematica</materia>
+		<materia>Gestione di Progetti</materia>
+		<materia>Storia</materia>
+		<materia>Lab Sistemi e Reti</materia>
+		<materia>Lab Sistemi e Reti</materia>
+		<materia>Lab Sistemi e Reti</materia>
+		<materia>TeP</materia>
+	</giorno>
+	<giorno>
+		<materia>Informatica</materia>
+		<materia>Informatica</materia>
+		<materia>Lingua e Letteratura</materia>
+		<materia>Lab TeP</materia>
+		<materia>Lab TeP</materia>
+		<materia>Scienze Motorie</materia>
+	</giorno>
+</orario>
